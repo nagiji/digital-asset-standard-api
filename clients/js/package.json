@@ -69,6 +69,6 @@
     },
     "packageManager": "pnpm@8.2.0",
     "dependencies": {
-        "package.json": "^2.0.1"
+        "pkg.json": "^2.0.8"
     }
 }
